@@ -1,0 +1,19 @@
+
+body{
+    background-color: black;
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1{
+    text-align: center;
+}
+
+corps{
+    margin: 0 auto;
+    width: 50%;
+    min-width: 800px;
+  
+}
+
