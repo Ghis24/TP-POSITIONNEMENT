@@ -5,3 +5,58 @@ body{
 h2{
     text-align: center;
 }
+
+.container{
+    position:absolute;
+    width: 500px;
+    height:500px;
+    background-color:lightblue;
+    padding:20px;
+    border:1px solid black;
+}
+
+#boite1{
+    position:absolute;
+    top:100px;
+    right:250px;
+    width:200px;
+    height:200px;
+    border:2px solid black;
+    background-color:rgba(0, 0, 255, 0.5);
+    z-index:1;
+
+    
+}
+
+#boite2{
+    position :absolute;
+    top:30px;
+    left:30px;
+    width: 200px;
+    height:200px;
+    background-color:green;
+    border:2px solid black;
+}
+
+#boite3{
+    
+    position:absolute;
+    bottom:30px;
+    right:30px;
+    width: 200px;
+    height:200px;
+    background-color:yellow;
+    border:2px solid black;
+   
+}
+
+#boite4{
+    position:absolute;
+    bottom:100px;
+    left:250px;
+    width: 200px;
+    height:200px;
+    background-color:chocolate;
+    border:2px solid black;
+    z-index: index 1;
+}
