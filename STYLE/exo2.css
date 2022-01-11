@@ -2,6 +2,10 @@ body{
     justify-content:center;
 }
 
+h1{
+    text-align: center;
+}
+
 .tangle{
     position:relative;
     width:350px;

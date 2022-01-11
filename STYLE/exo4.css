@@ -1,0 +1,39 @@
+body{
+    justify-content: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.carre{
+    padding: 30px;
+    justify-items: center;
+}
+#carre1{
+    border: 2px solid black;
+    background-color: red;
+}
+#carre2{
+    position:absolute;
+    top: 250px;
+    left:600px;
+    justify-content: center;
+    background-color: chartreuse;
+    border: 2px solid black;
+}
+
+#carre3{
+    border:2px solid black;
+    background-color: darkgreen;
+}
+
+#carre4{
+    position:absolute;
+    top: 250px;
+    left:200px;
+    background-color:blue;
+    border:2px solid black;
+}
+
+
