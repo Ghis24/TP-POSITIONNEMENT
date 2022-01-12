@@ -1,8 +1,45 @@
 body{
     justify-content: center;
+    height:200vh;
 }
 
 h2{
     text-align: center;
+}
+
+ul{
+    list-style-type: none;
+   
+}
+
+.menu{
+    border:2px solid orangered;
+    background-color: orangered;
+    color:white;
+    width: 150px;
+    top:0;
+    position : sticky;
+    border-radius: 5px;
+    
+}
+
+footer{
+    
+    border:2px solid black;
+    background-color: black;
+    width:100%;
+    height:10vh;
+    color:white;
+    text-align: center;
+    top:90vh;
+    position:sticky; 
+
+}
+
+p{
+    position:absolute;
+    left:200px;
+    top:100px;
+    justify-content: center;
 }
 
